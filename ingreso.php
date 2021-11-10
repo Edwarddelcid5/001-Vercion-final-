@@ -5,7 +5,7 @@ session_start();
 if (!isset($_SESSION['usuario'])) {
     echo '
     <script>
-    alert("porfavor debes inicair seccion ");
+    alert("porfavor debes iniciar seccion ");
     window.location="./Login.php"
   
     </script> ';
