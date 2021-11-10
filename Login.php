@@ -6,7 +6,7 @@ if (isset($_SESSION['usuario'])) {
 } 
     
 ?>
-Holas
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
